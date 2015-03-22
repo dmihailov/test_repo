@@ -1,0 +1,5 @@
+if( x ==1){
+	print "Hello 1"
+} else{
+	print "Hello not 1"
+}
